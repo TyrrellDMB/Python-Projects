@@ -2,7 +2,7 @@
 import qrcode
 
 # Data to be encoded
-data = "https://TyrrellBrewster.com"
+data = "https://tyrrelldmb.github.io/"
 
 # Creating QR instance
 qr = qrcode.QRCode(version = 1, box_size = 10, border = 5)
